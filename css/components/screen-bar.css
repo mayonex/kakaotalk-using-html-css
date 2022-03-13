@@ -1,0 +1,25 @@
+.screen-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px 25px 20px 25px;
+}
+
+.screen-bar__column__span {
+  font-size: 32px;
+  font-weight: 600;
+}
+
+.screen-bar__column__icon {
+  margin-left: 45px;
+  position: relative;
+}
+.screen-bar__column-icon__dot {
+  width: 5.5px;
+  height: 5.5px;
+  background-color: tomato;
+  border-radius: 50%;
+  position: absolute;
+  left: 20px;
+  bottom: 20px;
+}

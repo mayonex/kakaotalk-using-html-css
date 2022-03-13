@@ -1,0 +1,11 @@
+.friends-pop-up-bar {
+  padding: 16px 0px;
+  text-align: center;
+  background-color: #fafafa;
+  font-size: 19px;
+}
+.friends-pop-up-bar i {
+  margin-left: 14px;
+  color: #a5a5a5;
+  opacity: 0.5;
+}

@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "kakao",
+		"path": "../.."
+	},
+	{
+		"name": "screenshots",
+		"path": "../../../kakao-talk-clone/screenshots"
+	}
+],
+  "settings": {}
+}
